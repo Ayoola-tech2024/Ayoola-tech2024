@@ -88,20 +88,7 @@ I'm a **Full-Stack Product Engineer** and **Software Developer** currently pursu
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayoola-tech2024&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoola-tech2024&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayoola-tech2024&theme=github-dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="72%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayoola-tech2024&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayoola-tech2024&theme=react-dark&hide_border=true&bg_color=0D1117&point=6C63FF&line=6C63FF&area=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-analytics-incog.vercel.app/api?username=Ayoola-tech2024&theme=github_dark" alt="GitHub Analytics" />
 </div>
 
 <br/>
