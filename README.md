@@ -39,8 +39,9 @@
 
 I'm a **Full-Stack Product Engineer** and **Software Developer** currently pursuing **Business Information Technology** at the **Federal University of Technology, Akure (FUTA)**. I specialize in building high-impact digital products across **clean energy e-commerce, EdTech, fintech, and AI-powered platforms** using modern web technologies and the **InsForge** backend ecosystem.
 
-- 🔭 **Currently building** — [buysolar.ng](https://github.com/Ayoola-tech2024/buysolar.ng), Nigeria's #1 solar accessories marketplace
-- 🌱 **Deep diving into** — AI integration, real-time systems, and serverless architecture
+- 🔭 **Live in production** — [buysolar.ng](https://www.buysolar.ng) & [Lightsup Energy](https://lightsupenergy.com) — Nigeria's solar marketplaces powering clean energy commerce
+- 🚀 **Recently shipped** — [fixmcp](https://www.npmjs.com/package/fixmcp) `v0.1.0` (MCP diagnostics) · [xense-energy-website](https://ayoola-tech2024.github.io/xense-energy-website/) · AI tools ([Talk-to-db](https://github.com/Ayoola-tech2024/Talk-to-db), [envvault](https://github.com/Ayoola-tech2024/envvault), [hook-nest](https://github.com/Ayoola-tech2024/hook-nest))
+- 🌱 **Deep diving into** — AI integration, MCP, real-time systems & serverless architecture
 - 👯 **Open to collaborate** — Fintech, EdTech, Clean Energy SaaS, Dev Tools
 - ⚡ **Engineering philosophy** — 60/40 Planning-to-Execution. Eliminate mechanical disadvantage.
 - 🎯 **Goal** — Build systems that scale Africa's digital economy
@@ -63,6 +64,7 @@ I'm a **Full-Stack Product Engineer** and **Software Developer** currently pursu
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -80,6 +82,7 @@ I'm a **Full-Stack Product Engineer** and **Software Developer** currently pursu
 ![InsForge](https://img.shields.io/badge/InsForge-7C3AED?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBvbHlsaW5lIHBvaW50cz0iMjIgMTIgMTggMTQgMTUgMjMgOSAyMyA2IDE0IDIgMTIiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjUiIHI9IjIiLz48L3N2Zz4=&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -122,12 +125,14 @@ I'm a **Full-Stack Product Engineer** and **Software Developer** currently pursu
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| ☀️ **buysolar.ng** | Nigeria's #1 solar accessories marketplace — high-density e-commerce with automated component storefront | Next.js, InsForge, Stripe, PostgreSQL |
-| ⚡ **Xense Energy** | Real-time energy monitoring dashboard with AI-powered predictions & analytics | Next.js, InsForge, Realtime, AI |
-| 📚 **renancecbt** | AI-powered Computer-Based Testing platform for Nigerian universities | HTML/CSS/JS, AI Integration, PWA |
-| 📅 **daily-commit** | Automated daily build journal with dynamic content generation | Jekyll, GitHub Actions, Markdown |
-| 🏥 **Brick Health Energy** | Healthcare energy management and infrastructure monitoring | Next.js, InsForge, PostgreSQL |
-| 🔌 **Lightsup Energy** | Solar energy company website with customer portal and Firestore backend | Vite, Firebase, Vercel |
+| ☀️ **[buysolar.ng](https://www.buysolar.ng)** | Nigeria's #1 solar accessories marketplace — **Live in production** (Next.js + InsForge + Paystack/Vercel) | Next.js, InsForge, Stripe, PostgreSQL |
+| 🔌 **[Lightsup Energy](https://lightsupenergy.com)** | Solar company platform — **Live** customer portal & company site | Vite, Firebase, Vercel |
+| 🛠️ **[fixmcp](https://github.com/Ayoola-tech2024/fixmcp)** · [npm](https://www.npmjs.com/package/fixmcp) | Diagnose & fix MCP server failures across Claude Code / Cursor / VS Code / opencode — `npx fixmcp` · v0.1.0 | TypeScript, MCP SDK, JSON-RPC |
+| ⚡ **Xense Energy — Hybrid Portal** | Real-time energy monitoring dashboard with AI predictions & analytics | Next.js, InsForge, Realtime, AI |
+| 🌐 **[xense-energy-website](https://github.com/Ayoola-tech2024/xense-energy-website)** · [Live](https://ayoola-tech2024.github.io/xense-energy-website/) | Marketing site for Xense Energy | Next.js, Vercel |
+| 💬 **[Talk-to-db](https://github.com/Ayoola-tech2024/Talk-to-db)** | Natural-language database chat — ask your DB in plain English | Python, AI, SQL |
+| 🔐 **[envvault](https://github.com/Ayoola-tech2024/envvault)** | Encrypted env manager for team secrets | Node.js, Crypto, CLI |
+| 📅 **[daily-commit](https://github.com/Ayoola-tech2024/daily-commit)** | Automated daily build journal with dynamic content generation | Jekyll, GitHub Actions, Markdown |
 
 </div>
 
@@ -135,8 +140,14 @@ I'm a **Full-Stack Product Engineer** and **Software Developer** currently pursu
 <summary><b>📁 Other Projects</b></summary>
 <br/>
 
+- 📚 **renancecbt** — AI-powered Computer-Based Testing platform for Nigerian universities
+- 🏥 **Brick Health Energy** — Healthcare energy management & infrastructure monitoring
+- 🪝 **[hook-nest](https://github.com/Ayoola-tech2024/hook-nest)** — Webhook capture & replay workspace
+- 🤖 **[telegram-personal-bot](https://github.com/Ayoola-tech2024/telegram-personal-bot)** — Personal Telegram assistant
+- 👤 **[Ayoola-Damisile](https://github.com/Ayoola-tech2024/Ayoola-Damisile)** · [Live](https://ayoola-damisile.vercel.app) — Personal portfolio & docs
+- 📝 **[releasenote-studio](https://github.com/Ayoola-tech2024/releasenote-studio)** — Release notes generator
 - 🔐 **checkIn-v2** — Full-stack check-in application with backend + frontend
-- 🧪 **spark-cli** — CLI tool for the happy_forge team
+- 🧪 **spark-cli** — CLI tool for the happy_forge team (3★)
 - 👔 **Tee Stella Luxury** — Fashion e-commerce website
 - 📊 **Second Niger Bridge Report** — Project delivery analysis (Group 10)
 - 🤖 **Jarvis** — Personal AI phone assistant
