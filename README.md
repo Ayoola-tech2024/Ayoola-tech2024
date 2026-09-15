@@ -90,30 +90,48 @@ I'm a **Full-Stack Product Engineer** and **Software Developer** currently pursu
 
 ### 📊 GitHub Analytics
 
+<!-- Profile Details + Contributions Chart (interactive, always live) -->
 <div align="center">
   <a href="https://github.com/Ayoola-tech2024">
-    <img height="180em" src="https://github-readme-stats-wheat.vercel.app/api?username=Ayoola-tech2024&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Ayoola-tech2024">
-    <img height="180em" src="https://github-readme-stats-wheat.vercel.app/api/top-langs/?username=Ayoola-tech2024&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayoola-tech2024&theme=github_dark" alt="Profile Details + Contribution Graph" width="100%"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoola-tech2024&theme=github-dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="72%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayoola-tech2024&theme=github_dark" alt="Stats" height="200"/>
+  </a>
+  <a href="https://github.com/Ayoola-tech2024">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayoola-tech2024&theme=github_dark" alt="Top Languages by Commit" height="200"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayoola-tech2024&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+    <img src="https://streak-stats.demolab.com?user=Ayoola-tech2024&theme=github-dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak — 69 days & 1.1k+ contributions" width="70%"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayoola-tech2024&theme=react-dark&hide_border=true&bg_color=0D1117&point=6C63FF&line=6C63FF&area=true" alt="Activity Graph" width="100%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayoola-tech2024&theme=github_dark&utcOffset=1" alt="Productive Time (WAT UTC+1)" height="200"/>
+  </a>
+  <a href="https://github.com/Ayoola-tech2024">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayoola-tech2024&theme=github_dark" alt="Repos per Language" height="200"/>
+  </a>
+</div>
+
+<!-- Contribution Grid (GitHub-native, never 402) -->
+<div align="center">
+  <a href="https://github.com/Ayoola-tech2024">
+    <img src="https://ghchart.rshah.org/6C63FF/Ayoola-tech2024" alt="GitHub Contribution Grid" width="100%"/>
+  </a>
+</div>
+
+<!-- Snake — animated contribution snake (requires workflow .github/workflows/snake.yml) -->
+<div align="center">
+  <a href="https://github.com/Ayoola-tech2024">
+    <img src="https://raw.githubusercontent.com/Ayoola-tech2024/Ayoola-tech2024/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" width="100%"/>
   </a>
 </div>
 
