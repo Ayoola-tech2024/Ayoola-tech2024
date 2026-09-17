@@ -96,13 +96,6 @@ I'm a **Full-Stack Product Engineer** and **Software Developer** currently pursu
   </a>
 </div>
 
-<!-- Contribution Grid (GitHub-native, never 402) -->
-<div align="center">
-  <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://ghchart.rshah.org/6C63FF/Ayoola-tech2024" alt="GitHub Contribution Grid" width="100%"/>
-  </a>
-</div>
-
 <!-- Snake — animated contribution snake (requires workflow .github/workflows/snake.yml) -->
 <div align="center">
   <a href="https://github.com/Ayoola-tech2024">
