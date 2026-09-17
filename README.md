@@ -90,34 +90,9 @@ I'm a **Full-Stack Product Engineer** and **Software Developer** currently pursu
 
 ### 📊 GitHub Analytics
 
-<!-- Profile Details + Contributions Chart (interactive, always live) -->
-<div align="center">
-  <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayoola-tech2024&theme=github_dark" alt="Profile Details + Contribution Graph" width="100%"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayoola-tech2024&theme=github_dark" alt="Stats" height="200"/>
-  </a>
-  <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayoola-tech2024&theme=github_dark" alt="Top Languages by Commit" height="200"/>
-  </a>
-</div>
-
 <div align="center">
   <a href="https://github.com/Ayoola-tech2024">
     <img src="https://streak-stats.demolab.com?user=Ayoola-tech2024&theme=github-dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak — 69 days & 1.1k+ contributions" width="70%"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayoola-tech2024&theme=github_dark&utcOffset=1" alt="Productive Time (WAT UTC+1)" height="200"/>
-  </a>
-  <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayoola-tech2024&theme=github_dark" alt="Repos per Language" height="200"/>
   </a>
 </div>
 
