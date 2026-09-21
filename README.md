@@ -40,7 +40,7 @@
 I'm a **Full-Stack Product Engineer** and **Software Developer** currently pursuing **Business Information Technology** at the **Federal University of Technology, Akure (FUTA)**. I specialize in building high-impact digital products across **clean energy e-commerce, EdTech, fintech, and AI-powered platforms** using modern web technologies and the **InsForge** backend ecosystem.
 
 - 🔭 **Live in production** — [buysolar.ng](https://www.buysolar.ng) & [Lightsup Energy](https://lightsupenergy.com) — Nigeria's solar marketplaces powering clean energy commerce
-- 🚀 **Recently shipped** — [fixmcp](https://www.npmjs.com/package/fixmcp) `v0.1.0` (MCP diagnostics) · [xense-energy-website](https://ayoola-tech2024.github.io/xense-energy-website/) · AI tools ([Talk-to-db](https://github.com/Ayoola-tech2024/Talk-to-db), [envvault](https://github.com/Ayoola-tech2024/envvault), [hook-nest](https://github.com/Ayoola-tech2024/hook-nest))
+- 🚀 **Recently shipped** — [AI Assistant for Word](https://github.com/Ayoola-tech2024/ai-assistant-for-word) (100% free Copilot alternative: voice, charts, track changes, PDF studio) · [fixmcp](https://www.npmjs.com/package/fixmcp) `v0.1.0` (MCP diagnostics) · [xense-energy-website](https://ayoola-tech2024.github.io/xense-energy-website/) · AI tools ([Talk-to-db](https://github.com/Ayoola-tech2024/Talk-to-db), [envvault](https://github.com/Ayoola-tech2024/envvault), [hook-nest](https://github.com/Ayoola-tech2024/hook-nest))
 - 🌱 **Deep diving into** — AI integration, MCP, real-time systems & serverless architecture
 - 👯 **Open to collaborate** — Fintech, EdTech, Clean Energy SaaS, Dev Tools
 - ⚡ **Engineering philosophy** — 60/40 Planning-to-Execution. Eliminate mechanical disadvantage.
@@ -111,6 +111,7 @@ I'm a **Full-Stack Product Engineer** and **Software Developer** currently pursu
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+| 📝 **[AI Assistant for Word](https://github.com/Ayoola-tech2024/ai-assistant-for-word)** | 100% Free Copilot alternative for Microsoft Word — native COM automation, Groq Whisper voice, Matplotlib charts & 1-click PDF studio | Python, pywin32, Groq, Whisper, Tkinter |
 | ☀️ **[buysolar.ng](https://www.buysolar.ng)** | Nigeria's #1 solar accessories marketplace — **Live in production** (Next.js + InsForge + Paystack/Vercel) | Next.js, InsForge, Stripe, PostgreSQL |
 | 🔌 **[Lightsup Energy](https://lightsupenergy.com)** | Solar company platform — **Live** customer portal & company site | Vite, Firebase, Vercel |
 | 🛠️ **[fixmcp](https://github.com/Ayoola-tech2024/fixmcp)** · [npm](https://www.npmjs.com/package/fixmcp) | Diagnose & fix MCP server failures across Claude Code / Cursor / VS Code / opencode — `npx fixmcp` · v0.1.0 | TypeScript, MCP SDK, JSON-RPC |
