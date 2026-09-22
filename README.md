@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,27&height=240&section=header&text=Ayoola%20Damisile&fontSize=60&fontAlignY=32&desc=Full-Stack%20%26%20Systems%20Engineer&descAlignY=52&animation=fadeIn&fontColor=fff">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,27&height=240&section=header&text=Ayoola%20Damisile&fontSize=60&fontAlignY=32&desc=Full-Stack%20%26%20Systems%20Engineer&descAlignY=52&animation=fadeIn" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Ayoola%20Damisile&fontSize=60&fontAlignY=32&desc=Full-Stack%20%26%20Systems%20Engineer&descAlignY=52&animation=fadeIn&fontColor=fff">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Ayoola%20Damisile&fontSize=60&fontAlignY=32&desc=Full-Stack%20%26%20Systems%20Engineer&descAlignY=52&animation=fadeIn" width="100%"/>
   </picture>
 </div>
 
@@ -17,6 +17,9 @@
   </a>
   <a href="https://github.com/Ayoola-tech2024?tab=followers">
     <img src="https://img.shields.io/github/followers/Ayoola-tech2024?style=flat-square&logo=github&color=181717" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Ayoola-tech2024?tab=repositories">
+    <img src="https://img.shields.io/github/repositories/Ayoola-tech2024?style=flat-square&logo=github&color=6C63FF&label=Repositories" alt="Repositories"/>
   </a>
   <a href="https://www.linkedin.com/in/damisile-ayoola-096a7b382">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -90,32 +93,6 @@ I'm a **Full-Stack & Systems Engineer** pursuing **Business Information Technolo
 
 <br/>
 
-### 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayoola-tech2024&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ayoola's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoola-tech2024&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://streak-stats.demolab.com?user=Ayoola-tech2024&theme=github-dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="99%"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- Snake contribution animation -->
-<div align="center">
-  <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://raw.githubusercontent.com/Ayoola-tech2024/Ayoola-tech2024/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" width="100%"/>
-  </a>
-</div>
-
-<br/>
-
 ### 📁 Featured Projects
 
 <div align="center">
@@ -163,5 +140,5 @@ I'm a **Full-Stack & Systems Engineer** pursuing **Business Information Technolo
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,27&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%"/>
 </div>
