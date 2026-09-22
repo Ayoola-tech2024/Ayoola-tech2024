@@ -93,19 +93,48 @@ I'm a **Full-Stack & Systems Engineer** pursuing **Business Information Technolo
 
 <br/>
 
+### 📊 GitHub Analytics & Activity Graphs
+
+<div align="center">
+  <a href="https://github.com/Ayoola-tech2024">
+    <img src="https://github-analytics-incog.vercel.app/api?username=Ayoola-tech2024&theme=github_dark" alt="GitHub Analytics & Language Usage" width="99%"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Ayoola-tech2024">
+    <img src="https://streak-stats.demolab.com?user=Ayoola-tech2024&theme=github-dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Commit Streak" width="99%"/>
+  </a>
+</div>
+
+<br/>
+
 ### 📁 Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack | Link |
 |:--------|:------------|:------|:-----|
-| 🤖 **AI Assistant for Word** | Free MS Word Copilot alternative featuring voice commands, Groq Whisper, Matplotlib charts & 1-click PDF studio | Python, pywin32, Groq, Whisper, Tkinter | [GitHub](https://github.com/Ayoola-tech2024/ai-assistant-for-word) |
+| 🤖 **AI Assistant for Word** | Free MS Word Copilot alternative featuring voice commands, Groq Whisper, Matplotlib charts & 1-click PDF studio | Python, pywin32, Groq, Whisper | [GitHub](https://github.com/Ayoola-tech2024/ai-assistant-for-word) |
 | 💬 **Talk-to-DB** | Natural language database chat interface executing SQL queries & schema analysis from plain English | Python, AI, SQL, PostgreSQL | [GitHub](https://github.com/Ayoola-tech2024/Talk-to-db) |
 | 📝 **ReleaseNote Studio** | Automated release notes generator & changelog engine for software products | Next.js, TypeScript, Tailwind | [GitHub](https://github.com/Ayoola-tech2024/releasenote-studio) |
+| 🛠️ **fixmcp** | Diagnostic & repair CLI tool for Model Context Protocol (MCP) servers | TypeScript, MCP SDK, JSON-RPC | [npm](https://www.npmjs.com/package/fixmcp) · [GitHub](https://github.com/Ayoola-tech2024/fixmcp) |
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>📂 View More Projects (Click to expand)</b></summary>
+<br/>
+
+| Project | Description | Stack | Link |
+|:--------|:------------|:------|:-----|
 | 🌊 **EchoFlow** | Real-time audio streaming & intelligent voice workflow automation system | Python, Node.js, WebSockets | [GitHub](https://github.com/Ayoola-tech2024/echoflow) |
 | ⏳ **Time Capsule** | Memory preservation platform with scheduled time-lock secret message vaults | React, Node.js, Express, Crypto | [GitHub](https://github.com/Ayoola-tech2024/time-capsule) |
 | 🧠 **Synapse Study** | AI-driven adaptive learning platform with automated flashcard generation & quiz analytics | Next.js, React, Tailwind, AI APIs | [GitHub](https://github.com/Ayoola-tech2024/synapse-study) |
-| 🛠️ **fixmcp** | Diagnostic & repair CLI tool for Model Context Protocol (MCP) servers | TypeScript, MCP SDK, JSON-RPC | [npm](https://www.npmjs.com/package/fixmcp) · [GitHub](https://github.com/Ayoola-tech2024/fixmcp) |
 | 🔐 **@damisile_ayoola/envvault** | Encrypted environment variable vault & secrets CLI tool | Node.js, Crypto, CLI | [npm](https://www.npmjs.com/package/@damisile_ayoola/envvault) · [GitHub](https://github.com/Ayoola-tech2024/envvault) |
 | 📍 **checkIn FUTA SLIT** | Digital attendance & check-in management system for FUTA SLIT | React, Node.js, PostgreSQL | [GitHub](https://github.com/Ayoola-tech2024/checkIn-v2) |
 | 🧠 **MemoDams** | Lightweight local markdown note-taking & knowledge base system | Electron, React, TypeScript | [GitHub](https://github.com/Ayoola-tech2024/MemoDams) |
@@ -113,7 +142,7 @@ I'm a **Full-Stack & Systems Engineer** pursuing **Business Information Technolo
 | 👔 **Paul Hilpert & Tee Stella** | Bespoke fashion brand e-commerce web applications | Next.js, React, Tailwind CSS | [Live](https://tee-stella.vercel.app) |
 | 👑 **Damiqueen Designs** | Couture fashion showcase & client booking platform | HTML5, Modern CSS, JS | [GitHub](https://github.com/Ayoola-tech2024/Damiqueen-Designs) |
 
-</div>
+</details>
 
 <br/>
 
