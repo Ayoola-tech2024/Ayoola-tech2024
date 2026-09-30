@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Systems+Engineer;BIT+Scholar+%40+FUTA;Author+of+fixmcp+%26+envvault;TypeScript+%7C+Python+%7C+React+%7C+Next.js;Building+Intelligent+Tools+%26+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Systems+Engineer;BIT+Scholar+%40+FUTA;Creator+of+buysolar.ng+%26+Lightsup;Author+of+fixmcp+%26+envvault;Building+Intelligent+Tools+%26+Platforms" alt="Typing SVG" />
   </a>
 </div>
 
@@ -43,12 +43,13 @@
 
 > *"Architect first. Code second. Systems over syntax."*
 
-I'm a **Full-Stack & Systems Engineer** pursuing **Business Information Technology (BIT)** at the **Federal University of Technology, Akure (FUTA)**. I specialize in building high-performance web applications, developer tooling, AI integrations, and open-source packages.
+I'm a **Full-Stack & Systems Engineer** pursuing **Business Information Technology (BIT)** at the **Federal University of Technology, Akure (FUTA)**. I specialize in building high-performance web applications, clean energy platforms, developer tooling, AI integrations, and open-source packages.
 
+- ☀️ **Live Platforms** — [buysolar.ng](https://www.buysolar.ng) (Nigeria's #1 solar marketplace) · [Lightsup Energy](https://lightsupenergy.com) (Solar company platform)
 - 🔭 **Published Packages** — [fixmcp](https://www.npmjs.com/package/fixmcp) (MCP Diagnostics CLI) · [@damisile_ayoola/envvault](https://www.npmjs.com/package/@damisile_ayoola/envvault) (Encrypted Secrets Vault)
-- 🚀 **Featured Projects** — [AI Assistant for Word](https://github.com/Ayoola-tech2024/ai-assistant-for-word) · [Talk-to-DB](https://github.com/Ayoola-tech2024/Talk-to-db) · [ReleaseNote Studio](https://github.com/Ayoola-tech2024/releasenote-studio) · [EchoFlow](https://github.com/Ayoola-tech2024/echoflow) · [Time Capsule](https://github.com/Ayoola-tech2024/time-capsule) · [Synapse Study](https://github.com/Ayoola-tech2024/synapse-study)
-- 🌱 **Deep Diving Into** — Model Context Protocol (MCP), LLM Orchestration, Real-Time Audio & Biometrics, and System Architecture
-- 👯 **Open to Collaborate On** — AI Tooling, DevTools, Open Source Libraries, EdTech & SaaS Systems
+- 🚀 **Featured Tools & AI** — [AI Assistant for Word](https://github.com/Ayoola-tech2024/ai-assistant-for-word) · [Talk-to-DB](https://github.com/Ayoola-tech2024/Talk-to-db) · [ReleaseNote Studio](https://github.com/Ayoola-tech2024/releasenote-studio) · [EchoFlow](https://github.com/Ayoola-tech2024/echoflow) · [Time Capsule](https://github.com/Ayoola-tech2024/time-capsule)
+- 🌱 **Deep Diving Into** — Model Context Protocol (MCP), LLM Orchestration, Real-Time Audio & Biometrics, and Distributed System Architecture
+- 👯 **Open to Collaborate On** — AI Tooling, DevTools, Clean Energy SaaS, Open Source Libraries & Platform Engineering
 - ⚡ **Engineering Philosophy** — 60/40 Planning-to-Execution. Code clean, build modular, optimize for speed.
 
 <br/>
@@ -111,16 +112,16 @@ I'm a **Full-Stack & Systems Engineer** pursuing **Business Information Technolo
 
 <br/>
 
-### 📁 Featured Projects
+### 📁 Flagship Projects
 
 <div align="center">
 
 | Project | Description | Stack | Link |
 |:--------|:------------|:------|:-----|
+| ☀️ **buysolar.ng** | Nigeria's #1 solar accessories marketplace — **Live in production** powering clean energy commerce | Next.js, InsForge, PostgreSQL, Stripe | [Live](https://www.buysolar.ng) |
+| 🔌 **Lightsup Energy** | Solar energy company customer portal & digital platform — **Live** customer platform | Vite, React, Firebase, Tailwind | [Live](https://lightsupenergy.com) |
 | 🤖 **AI Assistant for Word** | Free MS Word Copilot alternative featuring voice commands, Groq Whisper, Matplotlib charts & 1-click PDF studio | Python, pywin32, Groq, Whisper | [GitHub](https://github.com/Ayoola-tech2024/ai-assistant-for-word) |
-| 💬 **Talk-to-DB** | Natural language database chat interface executing SQL queries & schema analysis from plain English | Python, AI, SQL, PostgreSQL | [GitHub](https://github.com/Ayoola-tech2024/Talk-to-db) |
-| 📝 **ReleaseNote Studio** | Automated release notes generator & changelog engine for software products | Next.js, TypeScript, Tailwind | [GitHub](https://github.com/Ayoola-tech2024/releasenote-studio) |
-| 🛠️ **fixmcp** | Diagnostic & repair CLI tool for Model Context Protocol (MCP) servers | TypeScript, MCP SDK, JSON-RPC | [npm](https://www.npmjs.com/package/fixmcp) · [GitHub](https://github.com/Ayoola-tech2024/fixmcp) |
+| 🛠️ **fixmcp** | Diagnostic & repair CLI tool for Model Context Protocol (MCP) servers across Claude Code / Cursor / VS Code | TypeScript, MCP SDK, JSON-RPC | [npm](https://www.npmjs.com/package/fixmcp) · [GitHub](https://github.com/Ayoola-tech2024/fixmcp) |
 
 </div>
 
@@ -132,6 +133,8 @@ I'm a **Full-Stack & Systems Engineer** pursuing **Business Information Technolo
 
 | Project | Description | Stack | Link |
 |:--------|:------------|:------|:-----|
+| 💬 **Talk-to-DB** | Natural language database chat interface executing SQL queries & schema analysis from plain English | Python, AI, SQL, PostgreSQL | [GitHub](https://github.com/Ayoola-tech2024/Talk-to-db) |
+| 📝 **ReleaseNote Studio** | Automated release notes generator & changelog engine for software products | Next.js, TypeScript, Tailwind | [GitHub](https://github.com/Ayoola-tech2024/releasenote-studio) |
 | 🌊 **EchoFlow** | Real-time audio streaming & intelligent voice workflow automation system | Python, Node.js, WebSockets | [GitHub](https://github.com/Ayoola-tech2024/echoflow) |
 | ⏳ **Time Capsule** | Memory preservation platform with scheduled time-lock secret message vaults | React, Node.js, Express, Crypto | [GitHub](https://github.com/Ayoola-tech2024/time-capsule) |
 | 🧠 **Synapse Study** | AI-driven adaptive learning platform with automated flashcard generation & quiz analytics | Next.js, React, Tailwind, AI APIs | [GitHub](https://github.com/Ayoola-tech2024/synapse-study) |
