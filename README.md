@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/damisile-ayoola-096a7b382">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/Damisile_dev">
+  <a href="https://x.com/damisiledev">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="mailto:damisileayoola@gmail.com">
@@ -155,7 +155,7 @@ I'm a **Full-Stack & Systems Engineer** pursuing **Business Information Technolo
   <a href="https://www.linkedin.com/in/damisile-ayoola-096a7b382">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/Damisile_dev">
+  <a href="https://x.com/damisiledev">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="mailto:damisileayoola@gmail.com">
