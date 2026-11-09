@@ -1,176 +1,84 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Ayoola%20Damisile&fontSize=60&fontAlignY=32&desc=Full-Stack%20%26%20Systems%20Engineer&descAlignY=52&animation=fadeIn&fontColor=fff">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Ayoola%20Damisile&fontSize=60&fontAlignY=32&desc=Full-Stack%20%26%20Systems%20Engineer&descAlignY=52&animation=fadeIn" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Ayoola%20Damisile&fontSize=60&fontAlignY=32&desc=Solutions%20Architect%20%26%20Cloud%20Systems%20Engineer&descAlignY=52&animation=fadeIn&fontColor=fff">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Ayoola%20Damisile&fontSize=60&fontAlignY=32&desc=Solutions%20Architect%20%26%20Cloud%20Systems%20Engineer&descAlignY=52&animation=fadeIn" width="100%"/>
   </picture>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Systems+Engineer;BIT+Scholar+%40+FUTA;Creator+of+buysolar.ng+%26+Lightsup;Author+of+fixmcp+%26+envvault;Building+Intelligent+Tools+%26+Platforms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=4285F4&center=true&vCenter=true&width=750&lines=Solutions+Architect+%26+Cloud+Systems+Engineer;BIT+Scholar+%40+FUTA;Sole+Software+Engineer+of+buysolar.ng+%26+lightsupenergy.com;Author+of+fixmcp+%26+%40damisile_ayoola%2Fenvvault;Building+Resilient+Cloud+%26+AI+Systems" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=Ayoola-tech2024&color=6C63FF&style=flat-square&label=PROFILE+VIEWS">
-    <img src="https://komarev.com/ghpvc/?username=Ayoola-tech2024&color=6C63FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Ayoola-tech2024?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ayoola-tech2024?style=flat-square&logo=github&color=181717" alt="Followers"/>
-  </a>
-  <a href="https://github.com/Ayoola-tech2024?tab=repositories">
-    <img src="https://img.shields.io/github/repositories/Ayoola-tech2024?style=flat-square&logo=github&color=6C63FF&label=Repositories" alt="Repositories"/>
-  </a>
-  <a href="https://www.linkedin.com/in/damisile-ayoola-096a7b382">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/damisiledev">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:damisileayoola@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://damisile.name.ng">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
+  <a href="https://www.google.com/search?kgmid=/g/11ynvpcp11"><img src="https://img.shields.io/badge/Google_Knowledge_Graph-%2Fg%2F11ynvpcp11-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Knowledge Graph" /></a>
+  <a href="https://www.wikidata.org/wiki/Q141703795"><img src="https://img.shields.io/badge/Wikidata-Q141703795-339966?style=flat-square&logo=wikidata&logoColor=white" alt="Wikidata" /></a>
+  <a href="https://www.credly.com/"><img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst-Verified-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM Cybersecurity Analyst" /></a>
+  <a href="https://loop.frontiersin.org/people/3228692/overview"><img src="https://img.shields.io/badge/Frontiers_Loop-%233228692-00A651?style=flat-square" alt="Frontiers Loop" /></a>
+  <a href="https://www.npmjs.com/~damisile_ayoola"><img src="https://img.shields.io/badge/npm-Packages-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
+  <a href="https://github.com/Ayoola-tech2024?tab=followers"><img src="https://img.shields.io/github/followers/Ayoola-tech2024?style=flat-square&logo=github&color=181717" alt="Followers"/></a>
+  <a href="https://www.linkedin.com/in/damisile-ayoola-096a7b382"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/damisiledev"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://damisile.name.ng"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 <br/>
 
 ---
 
-### 🚀 About Me
+### 🏛️ Core Architecture Overview
 
-> *"Architect first. Code second. Systems over syntax."*
+```mermaid
+flowchart LR
+    A[Client Traffic & Edge] --> B[Edge API Gateway<br/>Rate Limiting & HMAC Auth]
+    B --> C{Core Routing}
+    C -->|FinTech & Payments| D[PostgreSQL RLS<br/>Idempotent Ledger]
+    C -->|AI & Inference| E[Dual Gemini 2.5 Flash<br/>Vertex AI Failover]
+    C -->|Edge Biometrics| F[MediaPipe WebAssembly<br/>468 3D Face Landmarks]
+```
 
-I'm a **Full-Stack & Systems Engineer** pursuing **Business Information Technology (BIT)** at the **Federal University of Technology, Akure (FUTA)**. I specialize in building high-performance web applications, clean energy platforms, developer tooling, AI integrations, and open-source packages.
+---
 
-- ☀️ **Live Platforms** — [buysolar.ng](https://www.buysolar.ng) (Nigeria's #1 solar marketplace) · [Lightsup Energy](https://lightsupenergy.com) (Solar company platform)
-- 🔭 **Published Packages** — [fixmcp](https://www.npmjs.com/package/fixmcp) (MCP Diagnostics CLI) · [@damisile_ayoola/envvault](https://www.npmjs.com/package/@damisile_ayoola/envvault) (Encrypted Secrets Vault)
-- 🚀 **Featured Tools & AI** — [AI Assistant for Word](https://github.com/Ayoola-tech2024/ai-assistant-for-word) · [Talk-to-DB](https://github.com/Ayoola-tech2024/Talk-to-db) · [ReleaseNote Studio](https://github.com/Ayoola-tech2024/releasenote-studio) · [EchoFlow](https://github.com/Ayoola-tech2024/echoflow) · [Time Capsule](https://github.com/Ayoola-tech2024/time-capsule)
-- 🌱 **Deep Diving Into** — Model Context Protocol (MCP), LLM Orchestration, Real-Time Audio & Biometrics, and Distributed System Architecture
-- 👯 **Open to Collaborate On** — AI Tooling, DevTools, Clean Energy SaaS, Open Source Libraries & Platform Engineering
-- ⚡ **Engineering Philosophy** — 60/40 Planning-to-Execution. Code clean, build modular, optimize for speed.
+### 🚀 Anchor Production Systems
 
-<br/>
+#### 1. [BuySolar.ng](https://buysolar.ng) — Resilient FinTech Edge Architecture & Dual Gemini Quoting
+> **Role:** Sole Founding Software Engineer (Built from scratch) · CAC: 8168912
+* **Distributed Edge:** 682 edge routes engineered with Next.js and optimized for high-volume transactions.
+* **Cryptographic Reconciliation:** Enforces raw-body Paystack HMAC SHA-512 webhook signature verification with cryptographic idempotency nonces, eliminating double-allocation race conditions during payment bursts.
+* **Multimodal Solar AI Engine:** Dual Gemini 2.5 Flash pipeline with circuit-breaker failover (<800ms latency), translating rooftop imagery and appliance loads into production solar equipment quotes.
+* **Corporate Platform:** Engineered corporate energy portal at [lightsupenergy.com](https://lightsupenergy.com).
 
-### 🛠️ Tech Stack & Engineering Competencies
+#### 2. [checkIn](https://github.com/Ayoola-tech2024) — Campus Biometric Verification & Offline Engine
+> **Role:** Lead Systems Architect · Deployed in Production at FUTA SLIT
+* **Edge Biometrics:** Real-time 468-point 3D facial landmark topology extracted with Google MediaPipe compiled to WebAssembly.
+* **Client-Side Verification:** Biometric vector comparison runs strictly client-side via cosine similarity; zero face images or templates stored on servers (GDPR/NDPR compliant).
+* **Offline Resilience:** Haversine spatial geofencing combined with an idempotent IndexedDB transactional drain queue, ensuring zero attendance loss during campus connectivity dropouts.
 
-<div align="center">
+#### 3. [fixmcp](https://github.com/Ayoola-tech2024/fixmcp) — Model Context Protocol Doctor & Diagnostics CLI
+> **Published on npm:** `npx fixmcp` · [npm link](https://www.npmjs.com/package/fixmcp)
+* **Real stdio JSON-RPC Handshakes:** Tests live MCP server processes with JSON-RPC 2.0 `initialize` and `tools/list` handshakes across Claude Code, Cursor, VS Code, and Codex.
+* **Zero-Network Boot Healing:** Detects unpinned `@latest` registry boot loops, replacing them with local disk script pointers for instant startup.
 
-#### Languages & Core Infrastructure
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JSON-RPC 2.0](https://img.shields.io/badge/JSON--RPC_2.0-000000?style=flat-square&logo=json&logoColor=white)
+#### 4. [@damisile_ayoola/envvault](https://github.com/Ayoola-tech2024/envvault) — Zero-Disk Runtime Secrets Manager
+> **Published on npm:** `npm install -g @damisile_ayoola/envvault` · [npm link](https://www.npmjs.com/package/@damisile_ayoola/envvault)
+* **Cryptographic Memory Injection:** Injects decrypted environment variables directly into process memory (`process.env`) via `envvault run`, preventing plaintext `.env` disk leaks.
+* **High-Stretching KDF:** 100,000 PBKDF2 SHA-512 iterations with 32-byte cryptographically secure salt and zero external dependencies.
 
-#### Frontend & Mobile Engineering
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+---
 
-#### Backend, Databases & Security
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AES-256](https://img.shields.io/badge/AES--256--GCM-000000?style=flat-square&logo=shield&logoColor=white)
+### 🛠️ Systems & Cloud Stack
 
-#### AI, Biometrics & System Integrations
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white)
-![MediaPipe 3D](https://img.shields.io/badge/MediaPipe_3D-FF6F00?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_APIs-412991?style=flat-square&logo=openai&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+* **Cloud & Infrastructure:** Google Cloud Platform (Cloud Run, Cloud SQL, VPC, Vertex AI), Docker, Coolify, Traefik, Nginx.
+* **Languages & Runtimes:** TypeScript, JavaScript (Node.js/Bun), Python, SQL (PostgreSQL, SQLite), Bash.
+* **Security & Reliability:** AES-256-GCM, HMAC SHA-512, PBKDF2, Zero-Trust Architecture, Row-Level Security (RLS).
+* **Architecture:** Idempotent transaction queues, Circuit breakers, WebAssembly, Multi-agent workflows.
 
-</div>
+---
 
-<br/>
+### 📬 Connect & Verified Footprint
 
-### 📊 GitHub Analytics & Activity Graphs
-
-<div align="center">
-  <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://github-analytics-incog.vercel.app/api?username=Ayoola-tech2024&theme=github_dark" alt="GitHub Analytics & Language Usage" width="99%"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://streak-stats.demolab.com?user=Ayoola-tech2024&theme=github-dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Commit Streak" width="99%"/>
-  </a>
-</div>
-
-<br/>
-
-### 📁 Flagship Projects
-
-<div align="center">
-
-| Project | Description | Stack | Link |
-|:--------|:------------|:------|:-----|
-| ☀️ **buysolar.ng** | Nigeria's #1 solar accessories marketplace — **Live in production** powering clean energy commerce | Next.js, InsForge, PostgreSQL, Stripe | [Live](https://www.buysolar.ng) |
-| 🔌 **Lightsup Energy** | Solar energy company customer portal & digital platform — **Live** customer platform | Vite, React, Firebase, Tailwind | [Live](https://lightsupenergy.com) |
-| 🤖 **AI Assistant for Word** | Free MS Word Copilot alternative featuring voice commands, Groq Whisper, Matplotlib charts & 1-click PDF studio | Python, pywin32, Groq, Whisper | [GitHub](https://github.com/Ayoola-tech2024/ai-assistant-for-word) |
-| 🛠️ **fixmcp** | Diagnostic & repair CLI tool for Model Context Protocol (MCP) servers across Claude Code / Cursor / VS Code | TypeScript, MCP SDK, JSON-RPC | [npm](https://www.npmjs.com/package/fixmcp) · [GitHub](https://github.com/Ayoola-tech2024/fixmcp) |
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>📂 View More Projects (Click to expand)</b></summary>
-<br/>
-
-| Project | Description | Stack | Link |
-|:--------|:------------|:------|:-----|
-| 💬 **Talk-to-DB** | Natural language database chat interface executing SQL queries & schema analysis from plain English | Python, AI, SQL, PostgreSQL | [GitHub](https://github.com/Ayoola-tech2024/Talk-to-db) |
-| 📝 **ReleaseNote Studio** | Automated release notes generator & changelog engine for software products | Next.js, TypeScript, Tailwind | [GitHub](https://github.com/Ayoola-tech2024/releasenote-studio) |
-| 🌊 **EchoFlow** | Real-time audio streaming & intelligent voice workflow automation system | Python, Node.js, WebSockets | [GitHub](https://github.com/Ayoola-tech2024/echoflow) |
-| ⏳ **Time Capsule** | Memory preservation platform with scheduled time-lock secret message vaults | React, Node.js, Express, Crypto | [GitHub](https://github.com/Ayoola-tech2024/time-capsule) |
-| 🧠 **Synapse Study** | AI-driven adaptive learning platform with automated flashcard generation & quiz analytics | Next.js, React, Tailwind, AI APIs | [GitHub](https://github.com/Ayoola-tech2024/synapse-study) |
-| 🔐 **@damisile_ayoola/envvault** | Encrypted environment variable vault & secrets CLI tool | Node.js, Crypto, CLI | [npm](https://www.npmjs.com/package/@damisile_ayoola/envvault) · [GitHub](https://github.com/Ayoola-tech2024/envvault) |
-| 📍 **checkIn FUTA SLIT** | Digital attendance & check-in management system for FUTA SLIT | React, Node.js, PostgreSQL | [GitHub](https://github.com/Ayoola-tech2024/checkIn-v2) |
-| 🧠 **MemoDams** | Lightweight local markdown note-taking & knowledge base system | Electron, React, TypeScript | [GitHub](https://github.com/Ayoola-tech2024/MemoDams) |
-| 📰 **AFSS E-Magazine** | Interactive web magazine platform for digital publication | HTML5, CSS3, JavaScript | [GitHub](https://github.com/Ayoola-tech2024/AFSS-E-Magazine) |
-| 👔 **Paul Hilpert & Tee Stella** | Bespoke fashion brand e-commerce web applications | Next.js, React, Tailwind CSS | [Live](https://tee-stella.vercel.app) |
-| 👑 **Damiqueen Designs** | Couture fashion showcase & client booking platform | HTML5, Modern CSS, JS | [GitHub](https://github.com/Ayoola-tech2024/Damiqueen-Designs) |
-
-</details>
-
-<br/>
-
-### 📫 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/damisile-ayoola-096a7b382">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/damisiledev">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:damisileayoola@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://damisile.name.ng">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=about.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/Ayoola-tech2024">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%"/>
-</div>
+- 🌐 **Portfolio & Case Studies:** [damisile.name.ng](https://www.damisile.name.ng)
+- 💼 **LinkedIn:** [linkedin.com/in/damisile-ayoola-096a7b382](https://www.linkedin.com/in/damisile-ayoola-096a7b382)
+- 🐦 **X (Twitter):** [@damisiledev](https://x.com/damisiledev)
+- 📧 **Email:** [damisileayoola@gmail.com](mailto:damisileayoola@gmail.com)
