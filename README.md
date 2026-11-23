@@ -27,16 +27,20 @@
 
 ---
 
-### 🏛️ Core Architecture Overview
+### 📊 GitHub Analytics & Activity
 
-```mermaid
-flowchart LR
-    A[Client Traffic & Edge] --> B[Edge API Gateway<br/>Rate Limiting & HMAC Auth]
-    B --> C{Core Routing}
-    C -->|FinTech & Payments| D[PostgreSQL RLS<br/>Idempotent Ledger]
-    C -->|AI & Inference| E[Dual Gemini 2.5 Flash<br/>Vertex AI Failover]
-    C -->|Edge Biometrics| F[MediaPipe WebAssembly<br/>468 3D Face Landmarks]
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayoola-tech2024&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ayoola's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoola-tech2024&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Ayoola-tech2024">
+    <img src="https://streak-stats.demolab.com?user=Ayoola-tech2024&theme=github-dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="99%"/>
+  </a>
+</div>
 
 ---
 
