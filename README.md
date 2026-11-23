@@ -31,7 +31,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayoola-tech2024&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ayoola's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoola-tech2024&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoola-tech2024&layout=compact&theme=dark&hide_border=true&hide=html" alt="Top Languages" width="49%"/>
 </div>
 
 <br/>
